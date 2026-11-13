@@ -5,11 +5,11 @@
 			<link>http://womentalkscifi.com</link>
 			<description>The girls of SciFi, Gerri and Eugenia, from GE News Ezine now bring you Women Talk Sci Fi. A Podcast by women about their favourite genre, Sci-Fi. You've read what we have to say now you can listen to us too!</description>
 			<language>en-au</language>
-			<copyright>Copyright 2009, Gerri &amp; Eugenia</copyright>
+			<copyright>Copyright 2009-2026, Gerri &amp; Eugenia</copyright>
 			<managingEditor>contact@womentalkscifi.com (Gerri &amp; Eugenia)</managingEditor>
 			<webMaster>webmaster@womentalkscifi.com (Jason Hart)</webMaster>
-			<pubDate>Sat, 23 Apr 2010 00:00:00 GMT</pubDate>
-			<lastBuildDate>Sat, 23 April 2010 00:00:00 GMT</lastBuildDate>
+			<pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+			<lastBuildDate>Fri, 13 Nov 2026 00:00:00 GMT</lastBuildDate>
 			<category>TV &amp; Film</category>
 			<category domain="http://www.podcastblaster.com/directory">MSFT</category>
 			<generator>Jason Hart</generator>
@@ -33,7 +33,48 @@
 			</itunes:owner>
 			<itunes:subtitle>Because women like to talk</itunes:subtitle>
 			<itunes:summary>The girls of SciFi, Gerri and Eugenia, from GE News Ezine now bring you Women Talk Sci Fi. A Podcast by women about their favourite genre, Sci-Fi. You've read what we have to say now you can listen to us too!</itunes:summary>
-			<atom:link href="https://womentalkscifi.github.io/Women-Talk-Sci-Fi/Women-Talk-Sci-Fi.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://womentalkscifi.com/rss/podcasts/Women-Talk-Sci-Fi.xml" rel="self" type="application/rss+xml" />
+
+  <item>
+				<title>Women Talk Sci Fi - Episode 143 - From Angel to The Librarian - Christian Kane</title>
+				<link>https://womentalkscifi.wordpress.com/2026/11/13/podcast-143-from-angel-to-librarian-christian-kane/</link>
+				<description>In this podcast Gerri and Eugenia interview Christian Kane who talks about his time on Angel and the TV show The Librarians.           
+        [more]</description>
+				<author>contact@womentalkscifi.com (Gerri &amp; Eugenia)</author>
+				<category>TV &amp; Film</category>
+				<enclosure url="https://womentalkscifi.com/podcasts/Podcast143-FromAngelToLibrarian-ChristianKane.mp3" length="23937776" type="audio/mpeg" />
+				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2026/11/13/podcast-143-from-angel-to-librarian-christian-kane/</guid>
+				<pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
+				<itunes:author>Gerri &amp; Eugenia</itunes:author>
+				<itunes:duration>24:56</itunes:duration>
+				<itunes:image href="https://womentalkscifi.com/images/podcasts/wtsf-itunes-800x800.jpg" />
+				<itunes:explicit>false</itunes:explicit>
+				<itunes:keywords>sci,fi,SciFi,convention,scifi,podcast,science,fiction,sciencefiction,women,talk,womenscifi,convention,librarian,librarians,christiankane,kane,angel</itunes:keywords>
+				<itunes:summary>In this podcast Gerri and Eugenia interview Christian Kane who talks about his time on Angel and the TV show The Librarians.  </itunes:summary>
+        </item>
+
+
+
+  <item>
+				<title>Women Talk Sci Fi - Episode 142 - Growing Up with Disney - Mitchell Hope Linda Larkin Georgina Haig</title>
+				<link>https://womentalkscifi.wordpress.com/2026/10/28/podcast-142-growing-up-disney-mitchell-hope-linda-larkin-georgina-haig/</link>
+				<description>In this podcast Eugenia and Gerri interview Mitchell Hope, King Ben from the Descendants movies, Linda Larkin the voice of Jasmine and Georgina Haig who played Elsa in Once Upon a Time.           
+        [more]</description>
+				<author>contact@womentalkscifi.com (Gerri &amp; Eugenia)</author>
+				<category>TV &amp; Film</category>
+				<enclosure url="https://womentalkscifi.com/podcasts/Podcast142-GrowingUpWithDisney-MitchellHope-LindaLarkin-GeorginaHaig.mp3" length="39156924" type="audio/mpeg" />
+				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2026/10/28/podcast-142-growing-up-disney-mitchell-hope-linda-larkin-georgina-haig/</guid>
+				<pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
+				<itunes:author>Gerri &amp; Eugenia</itunes:author>
+				<itunes:duration>40:47</itunes:duration>
+				<itunes:image href="https://womentalkscifi.com/images/podcasts/wtsf-itunes-800x800.jpg" />
+				<itunes:explicit>false</itunes:explicit>
+				<itunes:keywords>sci,fi,SciFi,convention,scifi,podcast,science,fiction,sciencefiction,women,talk,womenscifi,convention,elsa,jasmine,aladdin,mitchellhope,lindalarkin,disney,georginahaig</itunes:keywords>
+				<itunes:summary>In this podcast Eugenia and Gerri interview Mitchell Hope, King Ben from the Descendants movies, Linda Larkin the voice of Jasmine and Georgina Haig who played Elsa in Once Upon a Time.  </itunes:summary>
+        </item>
+
 
   <item>
 				<title>Women Talk Sci Fi - Episode 141 - Pokemon Is Go! Veronica Taylor and Rena Taylor</title>
@@ -46,7 +87,7 @@
 				<enclosure url="https://womentalkscifi.com/podcasts/Podcast141-PokemonIsGo-VeronicaTaylorRenaTaylor.mp3" length="31892793" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2026/06/05/podcast-141-pokemon-is-go-veronica-taylor-and-rena-taylor/</guid>
 				<pubDate>Fri, 5 Jun 2026 00:00:00 GMT</pubDate>
-				<source url="http://feeds.feedburner.com/WomenTalkSciFi">Women Talk Sci Fi</source>
+				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
 				<itunes:author>Gerri &amp; Eugenia</itunes:author>
 				<itunes:duration>33:13</itunes:duration>
 				<itunes:image href="https://womentalkscifi.com/images/podcasts/wtsf-itunes-800x800.jpg" />
@@ -71,7 +112,7 @@
 				<enclosure url="https://womentalkscifi.com/podcasts/Podcast140-StarTrekJustNeverGoesAway.mp3" length="25208593" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2019/06/10/episode-140-star-trek-just-never-goes-away-tony-todd-patricia-tallman-daniel-davis-nicole-de-boer/</guid>
 				<pubDate>Mon, 10 Jun 2019 00:00:00 GMT</pubDate>
-				<source url="http://feeds.feedburner.com/WomenTalkSciFi">Women Talk Sci Fi</source>
+				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
 				<itunes:author>Gerri &amp; Eugenia</itunes:author>
 				<itunes:duration>52:31</itunes:duration>
 				<itunes:image href="https://womentalkscifi.com/images/podcasts/wtsf-itunes-800x800.jpg" />
@@ -94,7 +135,7 @@
 				<enclosure url="https://womentalkscifi.com/podcasts/Podcast139-AnyWhoWillDo-PearlMackie.mp3" length="32287358" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2019/02/20/2004/</guid>
 				<pubDate>Wed, 20 Feb 2019 00:00:00 GMT</pubDate>
-				<source url="http://feeds.216.222.199.167/~women34/WomenTalkSciFi">Women Talk Sci Fi</source>
+				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
 				<itunes:author>Gerri &amp; Eugenia</itunes:author>
 				<itunes:duration>01:07:15</itunes:duration>
 				<itunes:image href="https://womentalkscifi.com/images/podcasts/wtsf-itunes-800x800.jpg" />
@@ -178,14 +219,14 @@
  
         <item>
 				<title>Women Talk Sci Fi - Episode 135 - The Discovery of Star Trek - Rekha Sharma</title>
-				<link>womentalkscifi.wordpress.com/2018/03/12/episode-135-the-discovery-of-star-trek-rehka-sharma/</link>
+				<link>https://womentalkscifi.wordpress.com/2018/03/12/episode-135-the-discovery-of-star-trek-rehka-sharma/</link>
 				<description>In this podcast Gerri and Eugenia give their opinions on the new Star Trek show Discovery as well 
         as an interview with Rekha Sharma.            
         [more]</description>
 				<author>contact@womentalkscifi.com (Gerri &amp; Eugenia)</author>
 				<category>TV &amp; Film</category>
 				<enclosure url="https://womentalkscifi.com/podcasts/Podcast135-TheDiscoveryOfStarTrek-RekhaSharma.mp3" length="16377742" type="audio/mpeg" />
-				<guid isPermaLink="true">womentalkscifi.wordpress.com/2018/03/12/episode-135-the-discovery-of-star-trek-rehka-sharma/</guid>
+				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2018/03/12/episode-135-the-discovery-of-star-trek-rehka-sharma/</guid>
 				<pubDate>Mon, 12 Mar 2018 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
 				<itunes:author>Gerri &amp; Eugenia</itunes:author>
@@ -227,7 +268,7 @@
         [more]</description>
 				<author>contact@womentalkscifi.com (Gerri &amp; Eugenia)</author>
 				<category>TV &amp; Film</category>
-				<enclosure url="https://womentalkscifi.com/podcasts/Podcast133-BlueBoxBoy-MatthewWaterhouse.mp3" length="2969827" type="audio/mpeg" />
+				<enclosure url="https://womentalkscifi.com/podcasts/Podcast133-BlueBoxBoy-MatthewWaterhouse.mp3" length="21969827" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2018/01/02/episode-133-blue-box-boy-and-not-matthew-waterhouse-rupert-young/</guid>
 				<pubDate>Tue, 2 Jan 2018 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
@@ -378,7 +419,7 @@
         [more]</description>
 				<author>contact@womentalkscifi.com (Gerri &amp; Eugenia)</author>
 				<category>TV &amp; Film</category>
-				<enclosure url="https://womentalkscifi.com/podcasts/Podcast126-VampiresAndFighters-GunnHarmony.mp3" length="24939218" type="audio/mpeg" />
+				<enclosure url="https://womentalkscifi.com/podcasts/Podcast126-VampiresAndFighters-GunnHarmony.mp3" length="20140629" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2017/05/18/episode-126-vampires-and-fighters-gunn-and-harmony/</guid>
 				<pubDate>Thu, 18 May 2017 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
@@ -673,7 +714,7 @@
 				<pubDate>Mon, 14 Mar 2016 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
 				<itunes:author>Gerri &amp; Eugenia</itunes:author>
-				<itunes:duration>1:08:41</itunes:duration>
+				<itunes:duration>38:18</itunes:duration>
 				<itunes:image href="http://womentalkscifi.com/images/podcasts/wtsf-itunes-800x800.jpg" />
 				<itunes:explicit>false</itunes:explicit>
 				<itunes:keywords>sci,fi,SciFi,convention,scifi,podcast,science,fiction,sciencefiction,women,talk,womenscifi,convention,reddwarf,dwarf,danny,cat,hollister,bbc</itunes:keywords>
@@ -697,7 +738,7 @@
 				<pubDate>Sun, 14 Feb 2016 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
 				<itunes:author>Gerri &amp; Eugenia</itunes:author>
-				<itunes:duration>38:18</itunes:duration>
+				<itunes:duration>1:08:41</itunes:duration>
 				<itunes:image href="http://womentalkscifi.com/images/podcasts/wtsf-itunes-800x800.jpg" />
 				<itunes:explicit>false</itunes:explicit>
 				<itunes:keywords>sci,fi,SciFi,convention,scifi,podcast,science,fiction,sciencefiction,women,talk,womenscifi,convention,</itunes:keywords>
@@ -778,7 +819,7 @@
      <item>
 				<title>Women Talk Sci Fi - Episode 108 - The Many Faces of Star Trek - Plakson - Sheppard</title>
 				<link>https://womentalkscifi.wordpress.com/2016/01/21/episode-108-the-many-faces-of-star-trek-plakson-sheppard/</link>
-				<description>Yes, Eugenia and Gerri are talking about Star Trek again, and about the many faces seen and unseen!  In this podcast they interview Suzie Plakson and Morgan Sheppard.isten to this podcast where Eugenia and Gerri interview Manu Intiraymi who played the Borg Icheb from Star Trek Voyager.
+				<description>Yes, Eugenia and Gerri are talking about Star Trek again, and about the many faces seen and unseen!  In this podcast they interview Suzie Plakson and Morgan Sheppard.
         [more]</description>
 				<author>contact@womentalkscifi.com (Gerri &amp; Eugenia)</author>
 				<category>TV &amp; Film</category>
@@ -804,7 +845,7 @@
 				<category>TV &amp; Film</category>
 				<enclosure url="https://womentalkscifi.com/podcasts/Podcast107-NewWaysForOldWho-DanHall.mp3" length="25041200" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2016/01/21/episode-107-new-ways-for-old-who-dan-hall-austen-atkinson/</guid>
-				<pubDate>Wed, 20 Jul 2015 00:00:00 GMT</pubDate>
+				<pubDate>Mon, 20 Jul 2015 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
 				<itunes:author>Gerri &amp; Eugenia</itunes:author>
 				<itunes:duration>52:10</itunes:duration>
@@ -819,7 +860,7 @@
 				<title>Women Talk Sci Fi - Episode 106 - Resistance if Futile - Manu Intiraymi</title>
 				<link>https://womentalkscifi.wordpress.com/2016/01/21/episode-106-resistance-if-futile-manu-intiraymi/</link>
 				<description>Resistance is futile.  You will listen to this podcast where Eugenia and Gerri interview Manu Intiraymi who played the Borg Icheb from Star Trek Voyager.
-        [more]</description>
+        [more]</description>                                                        
 				<author>contact@womentalkscifi.com (Gerri &amp; Eugenia)</author>
 				<category>TV &amp; Film</category>
 				<enclosure url="https://womentalkscifi.com/podcasts/Podcast106-ResistanceIsFutile-ManuIntiraymi.mp3" length="21242578" type="audio/mpeg" />
@@ -1370,10 +1411,7 @@
 				<itunes:image href="http://womentalkscifi.com/images/podcasts/wtsf-itunes-800x800.jpg" />
 				<itunes:explicit>false</itunes:explicit>
 				<itunes:keywords>sci,fi,SciFi,convention,scifi,podcast,science,fiction,sciencefiction,women,talk,womenscifi,convention,doctor,who,drwho,peter,davison,tardis,anniversary</itunes:keywords>
-				<itunes:summary>In this podcast dedicated to Firefly 
-        Gerri and Eugenia interview the wonderful Sean Maher 
-        who played Dr Simon Tam and the lovely Jewel Staite 
-        who played KayleeIn this first episode in a series of many, 
+				<itunes:summary>In this first episode in a series of many, 
         they have something special they have an interview with a 
         Doctor, the fifth Doctor of this fiftieth year television 
         iconic show?  Who happens to be Gerri’s favourite Doctor, 
@@ -1666,7 +1704,7 @@
         [more]</description>
 				<author>contact@womentalkscifi.com (Gerri &amp; Eugenia)</author>
 				<category>TV &amp; Film</category>
-				<enclosure url="https://womentalkscifi.com/podcasts/Podcast72-StarTrekIntoDarkness-FirstLook.mp3" length="244747884" type="audio/mpeg" />
+				<enclosure url="https://womentalkscifi.com/podcasts/Podcast72-StarTrekIntoDarkness-FirstLook.mp3" length="24474788" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2016/01/21/episode-72-star-trek-into-darkness-first-look/</guid>
 				<pubDate>Thu, 25 Apr 2013 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
@@ -1920,7 +1958,7 @@
         [more]</description>
 				<author>contact@womentalkscifi.com (Gerri &amp; Eugenia)</author>
 				<category>TV &amp; Film</category>
-				<enclosure url="https://womentalkscifi.com/podcasts/Podcast62-TheTaleOfTwoStargateAliens-ChrisAndCorin.mp3" length="22427910" type="audio/mpeg" />
+				<enclosure url="https://womentalkscifi.com/podcasts/Podcast62-TheTaleOfTwoStargateAliens-ChrisAndCorin.mp3" length="18779754" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2016/01/21/episode-62-the-tale-of-two-stargate-aliens-chris-judge-and-corin-nemec/</guid>
 				<pubDate>Mon, 1 Oct 2012 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
@@ -2307,7 +2345,7 @@
 				<category>TV &amp; Film</category>
 				<enclosure url="https://womentalkscifi.com/podcasts/Podcast45-SG1BaddieApophisTalks.mp3" length="21565243" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2016/01/21/episode-45-sg1-baddie-apophis-talks/</guid>
-				<pubDate>Tue, 14 Sep 2011 00:00:00 GMT</pubDate>
+				<pubDate>Wed, 14 Sep 2011 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
 				<itunes:author>Gerri &amp; Eugenia</itunes:author>
 				<itunes:duration>44:55</itunes:duration>
@@ -2376,12 +2414,12 @@
         the connection will become clear.    [more]</description>
 				<author>contact@womentalkscifi.com (Gerri &amp; Eugenia)</author>
 				<category>TV &amp; Film</category>
-				<enclosure url="https://womentalkscifi.com/podcasts/Podcast42-FanSitesToFanFiction.mp3" length="16252928" type="audio/mpeg" />
+				<enclosure url="https://womentalkscifi.com/podcasts/Podcast42-FanSitesToFanFiction.mp3" length="16294962" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2016/01/21/episode-42-fan-sites-to-fan-fiction/</guid>
 				<pubDate>Fri, 8 Jul 2011 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
 				<itunes:author>Gerri &amp; Eugenia</itunes:author>
-				<itunes:duration>31:11</itunes:duration>
+				<itunes:duration>33:56</itunes:duration>
 				<itunes:image href="http://womentalkscifi.com/images/podcasts/wtsf-itunes-800x800.jpg" />
 				<itunes:explicit>false</itunes:explicit>
 				<itunes:keywords>star,trek,herb,jefferson,battlestar,galactica,aurora,gods,men,sci,fi,SciFi,convention,scifi,podcast,fan,fiction,fanfiction</itunes:keywords>
@@ -2451,7 +2489,7 @@
         For an added treat you get to hear Dominic’s alternative version of the Enterprise theme. [more]</description>
 				<author>contact@womentalkscifi.com (Gerri &amp; Eugenia)</author>
 				<category>TV &amp; Film</category>
-				<enclosure url="https://womentalkscifi.com/podcasts/Podcast39-LtReedFromArmouryManToFunnyMan.mp3" length="20552089" type="audio/mpeg" />
+				<enclosure url="https://womentalkscifi.com/podcasts/Podcast39-LtReedFromArmouryManToFunnyMan.mp3" length="20585731" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2016/01/21/episode-39-lt-reed-from-armoury-man-to-funny-man/</guid>
 				<pubDate>Sun, 15 May 2011 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
@@ -2549,7 +2587,7 @@
         on the show.  They also have an interview with Mark Lutz who played The Groosalugg on Angel.   [more]</description>
 				<author>contact@womentalkscifi.com (Gerri &amp; Eugenia)</author>
 				<category>TV &amp; Film</category>
-				<enclosure url="https://womentalkscifi.com/podcasts/Podcast35-ALittleByteOfAngel-MarkLutzInterview.mp3" length="14260633" type="audio/mpeg" />
+				<enclosure url="https://womentalkscifi.com/podcasts/Podcast35-ALittleByteOfAngel-MarkLutzInterview.mp3" length="14292102" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2016/01/21/episode-35-a-little-byte-of-angel-mark-lutz-interview/</guid>
 				<pubDate>Sat, 5 Feb 2011 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
@@ -2573,7 +2611,7 @@
         show and her current projects.   [more]</description>
 				<author>contact@womentalkscifi.com (Gerri &amp; Eugenia)</author>
 				<category>TV &amp; Film</category>
-				<enclosure url="https://womentalkscifi.com/podcasts/Podcast34-ThePlaceIsBabylon5-ClaudiaChristian.mp3" length="16882073" type="audio/mpeg" />
+				<enclosure url="https://womentalkscifi.com/podcasts/Podcast34-ThePlaceIsBabylon5-ClaudiaChristian.mp3" length="16912288" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2016/01/21/episode-34-the-place-is-babylon-5-claudia-christian/</guid>
 				<pubDate>Fri, 7 Jan 2011 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
@@ -2600,7 +2638,7 @@
         Rings movies and New Zealand radio personality [more]</description>
 				<author>contact@womentalkscifi.com (Gerri &amp; Eugenia)</author>
 				<category>TV &amp; Film</category>
-				<enclosure url="https://womentalkscifi.com/podcasts/Podcast33-WTSF-TalesFromTheOtherSide.mp3" length="14260633" type="audio/mpeg" />
+				<enclosure url="https://womentalkscifi.com/podcasts/Podcast33-WTSF-TalesFromTheOtherSide.mp3" length="14345601" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2016/01/21/episode-33-wtsf-tales-from-the-other-side/</guid>
 				<pubDate>Sun, 19 Dec 2010 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
@@ -2648,7 +2686,7 @@
         Supanova Convention with Larry Bagby, who of course played “Larry the Jock” in Buffy.    [more]</description>
 				<author>contact@womentalkscifi.com (Gerri &amp; Eugenia)</author>
 				<category>TV &amp; Film</category>
-				<enclosure url="https://womentalkscifi.com/podcasts/Podcast31-BuffyTheVampireSlayerAndLarry.mp3" length="20552089" type="audio/mpeg" />
+				<enclosure url="https://womentalkscifi.com/podcasts/Podcast31-BuffyTheVampireSlayerAndLarry.mp3" length="18784536" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2016/01/21/episode-31-buffy-the-vampire-slayer-and-larry/</guid>
 				<pubDate>Wed, 17 Nov 2010 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
@@ -2669,7 +2707,7 @@
         Marina Sirtis who played Counsellor Deanna Troi at First Contact Conventions Oz Trek 3.[more]</description>
 				<author>contact@womentalkscifi.com (Gerri &amp; Eugenia)</author>
 				<category>TV &amp; Film</category>
-				<enclosure url="https://womentalkscifi.com/podcasts/Podcast30-TheCounsellorIsIn-MarinaSirtis.mp3" length="20552089" type="audio/mpeg" />
+				<enclosure url="https://womentalkscifi.com/podcasts/Podcast30-TheCounsellorIsIn-MarinaSirtis.mp3" length="20566936" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2016/01/21/episode-30-the-counsellor-is-in-marina-sirtis/</guid>
 				<pubDate>Thu, 28 Oct 2010 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
@@ -2837,7 +2875,7 @@
 				<category>TV &amp; Film</category>
 				<enclosure url="https://womentalkscifi.com/podcasts/Podcast21-WomenTalkSciFi.mp3" length="18400223" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2016/01/20/episode-21-women-talk-sci-fi/</guid>
-				<pubDate>Sat, 23 Apr 2010 00:00:00 GMT</pubDate>
+				<pubDate>Fri, 23 Apr 2010 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
 				<itunes:author>Gerri &amp; Eugenia</itunes:author>
 				<itunes:duration>38:20</itunes:duration>
@@ -2855,7 +2893,7 @@
 				<category>TV &amp; Film</category>
 				<enclosure url="https://womentalkscifi.com/podcasts/Podcast20-AndTheDoctorWillSeeYouNow.mp3" length="19818086" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2016/01/20/episode-20-and-the-doctor-will-see-you-now/</guid>
-				<pubDate>Sat, 13 Apr 2010 00:00:00 GMT</pubDate>
+				<pubDate>Tue, 13 Apr 2010 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
 				<itunes:author>Gerri &amp; Eugenia</itunes:author>
 				<itunes:duration>41:23</itunes:duration>
@@ -2961,7 +2999,7 @@
 				<description>Gerri and Eugenia just love a bad boy and in this podcast they tell who they think are the bad boys of Sci Fi check out and see if you agree? They have an interview with one of their favourite bad boys Starbuck from the original 1978 Battlestar Galactica series! [more]</description>
 				<author>contact@womentalkscifi.com (Gerri &amp; Eugenia)</author>
 				<category>TV &amp; Film</category>
-				<enclosure url="https://womentalkscifi.com/podcasts/Podcast14-EveryGirlLovesABadBoy.mp3" length="23466690560" type="audio/mpeg" />
+				<enclosure url="https://womentalkscifi.com/podcasts/Podcast14-EveryGirlLovesABadBoy.mp3" length="23466690" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2016/01/20/episode-14-every-girl-loves-a-bad-boy/</guid>
 				<pubDate>Sun, 20 Dec 2009 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
@@ -2999,7 +3037,7 @@
 				<category>TV &amp; Film</category>
 				<enclosure url="https://womentalkscifi.com/podcasts/Podcast12-Torchwood-TheEndOfDaysOrNot.mp3" length="14215168" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2016/01/20/episode-12-torchwood-the-end-of-days-or-not/</guid>
-				<pubDate>Wed, 19 Nov 2009 00:00:00 GMT</pubDate>
+				<pubDate>Thu, 19 Nov 2009 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
 				<itunes:author>Gerri &amp; Eugenia</itunes:author>
 				<itunes:duration>29:36</itunes:duration>
@@ -3015,7 +3053,7 @@
 				<description>With both Stargates off the air Gerri and Eugenia were looking forward to Universe. Having seen the promos they wonder if it could be a version of Battle Stargate Universe. They so wished that it could stand alone!  What do they think of the new series? Download this episode and see if they nailed it? [more]</description>
 				<author>contact@womentalkscifi.com (Gerri &amp; Eugenia)</author>
 				<category>TV &amp; Film</category>
-				<enclosure url="https://womentalkscifi.com/podcasts/Podcast11-StargateBattlestarVoyagerTheNewUniverse.mp3" length="16882073" type="audio/mpeg" />
+				<enclosure url="https://womentalkscifi.com/podcasts/Podcast11-StargateBattlestarVoyagerTheNewUniverse.mp3" length="16895152" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2016/01/20/episode-11-battle-stargate-voyager-the-new-universe/</guid>
 				<pubDate>Fri, 6 Nov 2009 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
@@ -3033,7 +3071,7 @@
 				<description>Congratulations to Eugenia and Gerri for reaching double figures. In this podcast they interview Richard Hatch about the original and re-imagined Battlestar. Hear them disuss which series they like the best. [more]</description>
 				<author>contact@womentalkscifi.com (Gerri &amp; Eugenia)</author>
 				<category>TV &amp; Film</category>
-				<enclosure url="https://womentalkscifi.com/podcasts/Podcast10-BattlestarGalactica-NowandThen.mp3" length="23075840" type="audio/mpeg" />
+				<enclosure url="https://womentalkscifi.com/podcasts/Podcast10-BattlestarGalactica-NowandThen.mp3" length="23868187" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2016/01/20/episode-10-battlestar-galactica-now-and-then/</guid>
 				<pubDate>Thu, 15 Oct 2009 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
@@ -3071,7 +3109,7 @@
 				<category>TV &amp; Film</category>
 				<enclosure url="https://womentalkscifi.com/podcasts/Podcast08-GIJoeActionFigureToActionMovie.mp3" length="15316533" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2016/01/20/episode-08-g-i-joe-action-figure-to-action-movie/</guid>
-				<pubDate>Thu, 29 Jul 2009 00:00:00 GMT</pubDate>
+				<pubDate>Wed, 29 Jul 2009 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
 				<itunes:author>Gerri &amp; Eugenia</itunes:author>
 				<itunes:duration>31:55</itunes:duration>
@@ -3089,7 +3127,7 @@
 				<category>TV &amp; Film</category>
 				<enclosure url="https://womentalkscifi.com/podcasts/Podcast07-WormholeXtreme.mp3" length="12586214" type="audio/mpeg" />
 				<guid isPermaLink="true">https://womentalkscifi.wordpress.com/2016/01/20/episode-07-wormhole-x-treme/</guid>
-				<pubDate>Sun, 6 Jul 2009 00:00:00 GMT</pubDate>
+				<pubDate>Mon, 6 Jul 2009 00:00:00 GMT</pubDate>
 				<source url="http://feeds.womentalkscifi.com/WomenTalkSciFi">Women Talk Sci Fi</source>
 				<itunes:author>Gerri &amp; Eugenia</itunes:author>
 				<itunes:duration>26:13</itunes:duration>
